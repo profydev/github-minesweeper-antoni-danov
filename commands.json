@@ -17,7 +17,11 @@
    "clear C2",
    "clear E8",
    "clear F8",
-   "clear H8"
+   "clear H8",
+   "clear A2",
+   "clear B2",
+   "clear B1",
+   "clear C1"
 
   ]
 }
