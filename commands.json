@@ -13,7 +13,8 @@
     "clear B2",
     "clear C2",
     "flag A1",
-    "flag B1"
+    "flag B1",
+    "flag F8"
 
     ]
 }
